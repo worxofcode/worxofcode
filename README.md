@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://i.redd.it/sxvzpxojuzjd1.jpeg" alt="drawing" width="450"/>
 <!--
 **worxofcode/worxofcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
